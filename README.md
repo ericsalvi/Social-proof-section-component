@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/social-proof-section-using-flexbox-css-variables-and-rem-units-olkp0I8Ke)
+- Live Site URL: [https://ericsalvi.github.io/Social-proof-section-component/](https://ericsalvi.github.io/Social-proof-section-component/)
 
 ## My process
 
